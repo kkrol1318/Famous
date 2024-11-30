@@ -32,5 +32,5 @@ w Łodzi.
 - **2005r.:** Objął funkcję prezesa zarządu stowarzyszenia SAFT
 
 ## Dowiedz się więcej
-- [Link 1](https://pl.wikipedia.org/wiki/Cezary_Pazura)
-- [Link 2](https://www.filmweb.pl/person/Cezary+Pazura-81)
+- [Dowiedz się więcej](https://pl.wikipedia.org/wiki/Cezary_Pazura)
+- [DOwiedz się więcej](https://www.filmweb.pl/person/Cezary+Pazura-81)
